@@ -16,6 +16,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+- Pode ser feito desse modo, como no video do link abaixo. Nesse usamos a mesma ferramenta para criar e clonar a interface de login de uma rede wifi, isso foi realizado durante um projeto na faculdade.
+
+-
+
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
